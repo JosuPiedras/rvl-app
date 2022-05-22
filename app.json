@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rvl-app",
+    "slug": "rvl-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rvl-app"
+}
